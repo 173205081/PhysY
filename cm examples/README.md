@@ -10,7 +10,7 @@
 <div align="center">
 <h1>Syntax</h1>
 </div>
-<span>In the file <a href="/example1.cm">example1.cm</a> the first line is being this:</span>
+<span>In the file <a href="https://github.com/173205081/PhysY/blob/master/cm%20examples/example1.cm">example1.cm</a> the first line is being this:</span>
 <code>Define custom color mapping 1.0;</code>
 <span>which is the CM's entry point.</span><br>
 <span>On the third line and so on, you can see some <em>random numbers</em>. Let me clarify:</span>
